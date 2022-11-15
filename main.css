@@ -1,0 +1,58 @@
+
+
+#parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#parentBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    font-weight: 800;
+   
+}
+.ankit{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.rahul{
+    height: 100px;
+    width:100px;
+    overflow: hidden;
+}
+.nextParent{
+    padding: 20px;
+}
+.para{
+    color: rgb(48, 37, 37);
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#price{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+    font-weight: 800;
+}
+.button{
+    background-color: rgb(8, 96, 151);
+    color: white;
+    border-radius: 5px;
+}
